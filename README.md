@@ -30,7 +30,7 @@
 ## Project(s):
 <p align="center">
 <a href="https://github.com/xxshubhamxx/UID-Project">
-  <img align="center" width="385" src="https://github-readme-stats.vercel.app/api/pin/?username=xxshubhamxx&repo=UID-Project&show_icons=true&theme=radical" />
+  <img align="center" width="385" src="https://github-readme-stats.shion.dev/api/pin/?username=xxshubhamxx&repo=UID-Project&show_icons=true&theme=radical" />
 </a>
 </p>
 
@@ -39,7 +39,7 @@
 
 <p align="center">
 <a  href="https://github.com/xxshubhamxx/xxshubhamxx">
- <img align="center" width="385" src="https://github-readme-stats.vercel.app/api?username=xxshubhamxx&show_icons=true&theme=radical&count_private=true" alt="xxshubhamxx" />
+ <img align="center" width="385" src="https://github-readme-stats.shion.dev/api?username=xxshubhamxx&show_icons=true&theme=radical&count_private=true" alt="xxshubhamxx" />
 </a>
 </p>
 
@@ -48,7 +48,7 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxshubhamxx&show_icons=true&theme=radical" alt="Language Stats">
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=xxshubhamxx&show_icons=true&theme=radical" alt="Language Stats">
 </p>
 
 <!--   
